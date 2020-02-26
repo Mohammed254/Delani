@@ -7,3 +7,9 @@ body{
     background-repeat: no-repeat;
     background-size:110% ;
     height:100% ;
+}
+.header{
+    text-align: center;
+    text-transform: uppercase;
+    margin-top:10% ;
+}
