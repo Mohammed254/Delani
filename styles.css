@@ -18,3 +18,23 @@ body{
     text-align: center;
     animation:bounce(3sec);
  }
+ /* about */
+ .about{
+    justify-content: center;
+    text-align: center;
+}
+/* services */
+.services{
+    background-image: url(images/background2.jpg);
+    background-repeat: no-repeat;
+    background-size:auto ;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    height:300px;
+}
+/* what we do  */
+.whatwedo{
+    justify-content:center ;
+    text-align: center;
+}
