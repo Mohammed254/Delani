@@ -47,3 +47,43 @@ body{
 #product2{
     display: none;
 }
+ /* portfolio */
+ .portfolio{
+    justify-content:center;
+    text-align:center ;
+}
+.image{
+    width: 100%;
+   margin-top: 18px;
+   margin-bottom:15px ;
+   cursor: pointer;
+}
+.hide{
+    display: none;
+    color:black;
+    width: 60%;
+    height:40%;
+    background-color:rgba(255, 255, 255, 0.456);
+    position:absolute;
+    top: 30px;
+    left: 50px;
+    bottom: 9px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
+    padding:10px;
+    border:5px solid white ;
+}
+/* contact */
+.contact{
+background-image: url(images/assets/backgrounds/c_image.jpg);
+background-repeat: no-repeat;
+background-size:130% ;
+text-align: center;
+justify-content: center;
+height:500px ;
+margin-top:20px ;
+margin-bottom:2px ;
+color: white;
+}
